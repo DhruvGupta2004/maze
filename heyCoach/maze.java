@@ -3,7 +3,7 @@ package heyCoach;
 public class maze {
 
     // this to keep in mind while solving the question
-    // 1. the place where the robot id moving the place is exist in maze or not
+    // 1. the place where the robot is moving mark it
     // 2. after each move we have to check weather it is exit or not
     // 3. backtrack is the right way as after cover the path we have to come back if we not found the answer/ exit
     // 4. we use dfs here
