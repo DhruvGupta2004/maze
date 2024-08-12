@@ -1,7 +1,5 @@
 package heyCoach;
 
-import java.util.Random;
-
 public class maze {
 
     // this to keep in mind while solving the question
